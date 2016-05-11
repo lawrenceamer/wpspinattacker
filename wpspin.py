@@ -25,10 +25,10 @@ GR = '\033[37m' # gray
 print P+(""" 
           ----------- WPS Pin Attacker ---------------------
           [+] Security Researcher : Lawrence Amer 
-          [~] Email : zeroattck@gmail.com
-          [+] infected Routers : tplink v3 , v5 
+          [~] Email : sec@secteach.me
+          [+] infected Routers : tplink v3 
           [+] Site: lawrenceamer.me 
-          [+] Supported by : http://bunchofhackers.org 
+           
           -----------------------------------------------------------
           """)
           
