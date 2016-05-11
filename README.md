@@ -3,13 +3,13 @@
 
 Features v1 : 
 
-1. Get Default Pin of TP-link Routers V3 , V5 
+1. Get Default Pin of TP-link Routers V3  
 2. inlcuded with Reaver support to complete the attack 
 
 [+] Tested in KALI Linux 
 
 
-[+]site : http://lawrenceamer.me  
+[+] site : http://lawrenceamer.me  
 
 
 for more information please send me email at : 
